@@ -1,0 +1,1 @@
+let userObject = {}; let userInput = prompt("Please enter some data"); userObject. data = userInput; 
